@@ -1,0 +1,1 @@
+{"rustc":3568077443643376949,"features":"[\"http2\"]","target":13294766831966498538,"profile":17504242664759948721,"path":5752444347688714855,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/isahc-915383e5c9d70666/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":16131965812872044138,"config":2202906307356721367,"compile_kind":0}

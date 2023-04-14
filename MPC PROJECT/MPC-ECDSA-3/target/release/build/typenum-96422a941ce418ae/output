@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/dheeraj/Desktop/ZenGo/target/release/build/typenum-96422a941ce418ae/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/dheeraj/Desktop/ZenGo/target/release/build/typenum-96422a941ce418ae/out/op.rs

@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/dheeraj/Desktop/MPC-Wallet/target/release/build/typenum-1507667ee3032782/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/dheeraj/Desktop/MPC-Wallet/target/release/build/typenum-1507667ee3032782/out/op.rs
